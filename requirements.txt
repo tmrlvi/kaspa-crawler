@@ -1,0 +1,5 @@
+grpcio-tools
+grpcio
+ndjson
+aiofiles
+psutil
